@@ -1,0 +1,16 @@
+googleapis-common-protos==1.63.0
+grpcio==1.62.2
+grpcio-status==1.62.2
+numpy==1.24.4
+packaging==24.0
+pandas==2.0.3
+plotly==5.21.0
+protobuf==4.25.3
+py4j==0.10.9.7
+pyarrow==16.0.0
+pyspark==3.5.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+six==1.16.0
+tenacity==8.2.3
+tzdata==2024.1
